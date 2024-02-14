@@ -95,4 +95,7 @@ Feel free to explore each activity and experience the diverse functionalities of
      - Download emulators for Android or connect your Android Phone to make sure you can run these UI based programs.
   
   ## Contributor:
-  ![Swapnadeep Kapuri](https://www.linkedin.com/in/swapnadeep-kapuri-5ab423228/)
+  [Swapnadeep Kapuri 2BU20CS098](https://www.linkedin.com/in/swapnadeep-kapuri-5ab423228/)
+
+  ## Check PDF:
+  [18CSMP68 MAD Lab](https://github.com/SwapnadeepK/MAD_lab/blob/main/18CSMP68%20MAD.pdf)
